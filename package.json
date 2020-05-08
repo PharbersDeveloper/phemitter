@@ -21,11 +21,11 @@
     "test:all": "ember try:each"
   },
   "dependencies": {
-    "ember-auto-import": "^1.5.2",
-    "emitter-io": "^1.38.0",
-    "ember-cli-babel": "^6.16.0"
+    "ember-cli-babel": "^6.16.0",
+    "emitter-io": "^1.38.0"
   },
   "devDependencies": {
+    "ember-auto-import": "^1.5.3",
     "@ember/optional-features": "^0.6.3",
     "broccoli-asset-rev": "^2.7.0",
     "ember-ajax": "^3.1.0",
